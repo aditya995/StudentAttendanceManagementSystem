@@ -13,7 +13,8 @@ $password = 'adityadnj';
 $dbname ='1373190';
 /*************/
 
-/* for original Web server *
+/* for original Web server 
+
 http://ams-proj001.infinityfreeapp.com/ *
 $host = 'sql212.epizy.com';
 $user = 'epiz_29875699';
