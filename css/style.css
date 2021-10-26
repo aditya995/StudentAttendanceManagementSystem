@@ -1,0 +1,13 @@
+.valid-feedback {
+  color: aliceblue;
+}
+
+.invalid-feedback {
+  color: red;
+  background-color: gray;
+}
+
+input {
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */
